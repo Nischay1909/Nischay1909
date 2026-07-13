@@ -35,4 +35,4 @@ I am a Computer Science student at the Institute of Engineering and Technology, 
 ---
 
 ### 📈 GitHub Stats
-![Nischay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nischay1909&show_icons=true&theme=radical)
+![Nischay's GitHub stats](https://github-readme-stats-theta-ten-83.vercel.app/api?username=Nischay1909&show_icons=true&theme=radical)
