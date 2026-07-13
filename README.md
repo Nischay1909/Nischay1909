@@ -1,6 +1,6 @@
 # Hello, I'm Nischay Shukla! 👋
 
-I am a Computer Science student at the Institute of Engineering and Technology, Lucknow, with a passion for building robust, scalable applications and mastering algorithmic problem-solving.
+I am a Computer Science Engineer with a deep passion for technology, dedicated to building robust, scalable applications and mastering algorithmic problem-solving.
 
 ---
 
@@ -15,7 +15,7 @@ I am a Computer Science student at the Institute of Engineering and Technology, 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Core Competencies:** Data Structures & Algorithms, Computer Networks, DBMS, OS, and RESTful API Integration[cite: 1].
+**Core Competencies:** Data Structures & Algorithms, Computer Networks, DBMS, OS, and RESTful API Integration.
 
 ---
 
@@ -24,13 +24,13 @@ I am a Computer Science student at the Institute of Engineering and Technology, 
 | :--- | :--- |
 | **Codeforces** | Specialist |
 | **CodeChef** | 3-Star Rating |
-| **LeetCode** | Knight (Rank 425 in Biweekly Contest 181) |
+| **LeetCode** | Knight |
 
 ---
 
 ### 📂 Featured Projects
-*   **[Code Collaboration Environment](https://github.com/nischayshukla/Code-Collabration):** Engineered a web-based, real-time collaborative development platform with a live preview engine and shareable link architecture[cite: 1].
-*   **[AI Notes SaaS Backend](https://github.com/nischayshukla/Notes-Backend):** Developed a scalable Node.js/Express API with MongoDB schema design for complex note management and efficient CRUD operations[cite: 1].
+*   **[Code Collaboration Environment](https://github.com/nischayshukla/Code-Collabration):** Engineered a web-based, real-time collaborative development platform with a live preview engine and shareable link architecture.
+*   **[AI Notes SaaS Backend](https://github.com/nischayshukla/Notes-Backend):** Developed a scalable Node.js/Express API with MongoDB schema design for complex note management and efficient CRUD operations.
 
 ---
 
