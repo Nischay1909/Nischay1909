@@ -1,6 +1,6 @@
 # Hello, I'm Nischay Shukla! 👋
 
-I am a Computer Science Engineer with a deep passion for technology, dedicated to building robust, scalable applications and mastering algorithmic problem-solving.
+I am a Computer Science student with a deep passion for technology, dedicated to building robust, scalable applications and mastering algorithmic problem-solving.
 
 ---
 
