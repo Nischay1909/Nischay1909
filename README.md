@@ -27,8 +27,8 @@ I am a Computer Science student with a deep passion for technology, dedicated to
 ---
 
 ### 📂 Featured Projects
-*   **[Code Collaboration Environment](https://github.com/nischayshukla/Code-Collabration):** Engineered a web-based, real-time collaborative development platform with a live preview engine and shareable link architecture.
-*   **[AI Notes SaaS Backend](https://github.com/nischayshukla/Notes-Backend):** Developed a scalable Node.js/Express API with MongoDB schema design for complex note management and efficient CRUD operations.
+*   **[Code Collaboration Environment](https://github.com/Nischay1909/Dev-Hub-App): Developer Telemetry Dashboard: Engineered a dynamic React/Vite analytics dashboard consuming GitHub REST APIs, incorporating a 15-minute localStorage TTL caching layer to minimize redundant network requests and avoid API rate limits.
+*   **[Notes_Backend](https://github.com/Nischay1909/Notes_Backend):Node.js, Express.js, MongoDB Atlas, Mongoose ORM,JSON Web Tokens (JWT), Bcrypt.js, Express Rate Limit, CORS .
 
 ---
 
