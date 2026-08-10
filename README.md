@@ -27,7 +27,7 @@ I am a Computer Science student with a deep passion for technology, dedicated to
 ---
 
 ### 📂 Featured Projects
-*   **[Code Collaboration Environment](https://github.com/Nischay1909/Dev-Hub-App): Developer Telemetry Dashboard: Engineered a dynamic React/Vite analytics dashboard consuming GitHub REST APIs, incorporating a 15-minute localStorage TTL caching layer to minimize redundant network requests and avoid API rate limits.
+*   **[Dev-Hub-App](https://github.com/Nischay1909/Dev-Hub-App): Developer Telemetry Dashboard: Engineered a dynamic React/Vite analytics dashboard consuming GitHub REST APIs, incorporating a 15-minute localStorage TTL caching layer to minimize redundant network requests and avoid API rate limits.
 *   **[Notes_Backend](https://github.com/Nischay1909/Notes_Backend):Node.js, Express.js, MongoDB Atlas, Mongoose ORM,JSON Web Tokens (JWT), Bcrypt.js, Express Rate Limit, CORS .
 
 ---
